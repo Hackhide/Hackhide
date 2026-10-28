@@ -30,7 +30,7 @@
 
 ### 🚀 My Latest Project
 <a href="https://github.com/Hackhide/Project-Name">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hackhide&repo=Project-Name&theme=radical" alt="Project Card">
+  <img src="https://https://wallx0.netlify.app/saved/api/pin/?username=Hackhide&repo=Project-Name&theme=radical" alt="Project Card">
 </a>
 
 ---
