@@ -29,9 +29,13 @@
 ---
 
 ### 🚀 My Latest Project
-<a href="https://github.com/Hackhide/Project-Name">
-  <img src="https://https://wallx0.netlify.app/saved/api/pin/?username=Hackhide&repo=Project-Name&theme=radical" alt="Project Card">
+
+<a href="https://wallx0.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Project-WallX0-ff69b4?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit WallX0">
 </a>
+
+[🌐 **Visit WallX0 Website**](https://wallx0.netlify.app/)
+
 
 ---
 
