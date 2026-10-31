@@ -27,23 +27,38 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackhide&langs_count_private=true&theme=radical&card_width=445)
 
 ---
-# 🚀 My Latest Projects
+# 🚀 My Latest Projects 
 
-<a href="https://wallx0.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Project-WallX0-ff69b4?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit WallX0">
-</a>
-[🌐 **WallX0 Website**](https://wallx0.netlify.app/)
+
+<h2 align="center">🎀 My Featured Projects</h2>
+
+<p align="center">
+  <a href="https://wallx0.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/✦_WALLX0-LIVE_DEMO-ff69b4?style=for-the-badge&labelColor=1c1c1c" />
+  </a>
+  <br>
+  <b>WallX0</b> · Creative Web Project
+  <br>
+  <a href="https://wallx0.netlify.app/">🌐 Explore WallX0</a>
+</p>
 
 <br>
 
-<a href="https://nightowl-dusky.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Project-Nightowl-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Nightowl">
-</a>
-[🌐 **Nightowl - Search Engine**](https://nightowl-dusky.vercel.app/)
+<p align="center">
+  <a href="https://nightowl-dusky.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/✦_NIGHTOWL-LIVE_DEMO-ff69b4?style=for-the-badge&labelColor=1c1c1c" />
+  </a>
+  <br>
+  <b>Nightowl - Search Engine</b>
+  <br>
+  <a href="https://nightowl-dusky.vercel.app/">🌐 Explore Nightowl</a>
+</p>
 
-[🌐 **Visit WallX0 Website**](https://wallx0.netlify.app/)
+<br>
 
-
+<p align="center">
+  <i>♡ Built with curiosity, creativity & code.</i>
+</p>
 ---
 
 Credit: [Hackhide](https://github.com/Hackhide)
