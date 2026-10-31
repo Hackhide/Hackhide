@@ -29,9 +29,6 @@
 ---
 # 🚀 My Latest Projects 
 
-
-<h2 align="center">🎀 My Featured Projects</h2>
-
 <p align="center">
   <a href="https://wallx0.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/✦_WALLX0-LIVE_DEMO-ff69b4?style=for-the-badge&labelColor=1c1c1c" />
