@@ -48,7 +48,7 @@
   <br>
   <b>Nightowl - Search Engine</b>
   <br>
-  <a href="https://nightowl-green.vercel.app/">🌐 Explore Nightowl</a>
+  <a href="https://nightowl-pi.vercel.app/">🌐 Explore Nightowl</a>
 </p>
 
 <br>
